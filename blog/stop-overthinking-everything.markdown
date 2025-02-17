@@ -32,6 +32,6 @@ This is probably a terrible blog post! And that's alright.
 
 Go make some mistakes.
 
-(The Worst Developer Mentality - Neetcode)[https://www.youtube.com/watch?v=7XFhbWSy4zQ]
+[The Worst Developer Mentality - Neetcode](https://www.youtube.com/watch?v=7XFhbWSy4zQ)
 
-(Don't overthink it - Jason Horsley)[https://www.youtube.com/watch?v=Icq1HLw8mSQ]
+[Don't overthink it - Jason Horsley](https://www.youtube.com/watch?v=Icq1HLw8mSQ)
