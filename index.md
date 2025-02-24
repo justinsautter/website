@@ -22,7 +22,7 @@ Sept 15th, 2024 - [The Anti Resume](/blog/the-anti-resume)
 
 June 26th, 2024 - [How To: Break Into iLO](/blog/how-to-break-into-ilo)
 
-Sept 4th, 2023 - [Exploiting a carwash special](blog/carwash)
+Sept 4th, 2023 - [Exploiting a carwash special](blog/exploiting-a-carwash-special)
 
 <br/>
 
