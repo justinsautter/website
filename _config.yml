@@ -34,9 +34,9 @@ plugins:
 
 permalink: pretty
 
-permalink: /blog/:slug
-timezone: America/Chicago
-future: false
+# permalink: /blog/:slug
+# timezone: America/Chicago
+# future: false
 
 Blog: /blog
 
