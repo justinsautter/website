@@ -32,6 +32,8 @@ theme: jekyll-bear-theme
 plugins:
   - jekyll-feed
 
+permalink: pretty
+
 links:
   Now: /now
   Resume: /resume.pdf
