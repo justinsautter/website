@@ -9,7 +9,7 @@ permalink: /now/
 
 Changelog
 
-</br>
+<br/>
 
 *Last updated December 2024*
 
