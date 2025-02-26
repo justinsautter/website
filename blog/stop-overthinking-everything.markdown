@@ -41,4 +41,4 @@ Go make some mistakes.
 
 [The Worst Developer Mentality - Neetcode](https://www.youtube.com/watch?v=7XFhbWSy4zQ)
 
-[Don't overthink it - Jason Horsley](https://www.youtube.com/watch?v=Icq1HLw8mSQ)
+[Don't Overthink It - Jason Horsley](https://www.youtube.com/watch?v=Icq1HLw8mSQ)
