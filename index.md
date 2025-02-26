@@ -10,7 +10,7 @@ my name is Justin and I'm interested in software development, offensive security
 
 this is my dumping ground for things.
 
-(still under construction) 👷🚧🔨
+(still under construction) 👷 🚧 🔨
 
 <br/>
 
