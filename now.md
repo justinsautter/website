@@ -8,6 +8,9 @@ permalink: /now/
 <br/>
 
 Changelog
+
+</br>
+
 *Last updated December 2024*
 
 <br/>
