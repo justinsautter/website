@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Now
+title: What am I doing at the moment?
 description: What I'm up to
 permalink: /now/
 ---
 
 <br/>
 
-## What am I doing at the moment?
+Changelog
 *Last updated December 2024*
 
 <br/>
