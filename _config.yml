@@ -38,10 +38,10 @@ permalink: pretty
 # timezone: America/Chicago
 # future: false
 
-Blog: /blog.md
+Blog: /blog
 
 links:
-  Now: /now.md
+  Now: /now
   Resume: /resume.pdf
 # Exclude from processing.
 # The following items will not be processed, by default.
