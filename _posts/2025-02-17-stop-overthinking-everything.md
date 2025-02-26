@@ -2,7 +2,7 @@
 layout: blog
 title: "Stop overthinking everything"
 date: 2025-02-17
-permalink: /stop-overthinking-everything/
+permalink: /blog/stop-overthinking-everything/
 ---
 
 <br/>

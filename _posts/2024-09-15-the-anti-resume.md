@@ -2,7 +2,7 @@
 layout: blog
 title: "The Anti Resume"
 date: 2024-09-15
-permalink: /the-anti-resume/
+permalink: /blog/the-anti-resume/
 ---
   
 <br/>

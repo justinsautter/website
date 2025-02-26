@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: page
 title: Now
 description: What I'm up to
-permalink: /now
+permalink: /now/
 ---
 
 # What am I doing at the moment?
@@ -12,7 +12,7 @@ permalink: /now
 
 - Currently working as a System Administrator at [LovelySkin](https://lovelyskin.com/).
 
-- Starting a B.S. in Computer Science at [Bellevue University](https://bellevue.edu/).
+- Studying Computer Science at [Bellevue University](https://bellevue.edu/).
 
 - Learning to program in JavaScript/TypeScript, Python, and (hopefully) Go.
 

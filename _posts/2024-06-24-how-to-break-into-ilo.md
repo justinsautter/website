@@ -2,7 +2,7 @@
 layout: blog
 title: "How To: Break Into iLO"
 date: 2024-06-24
-permalink: /how-to-break-into-ilo/
+permalink: /blog/how-to-break-into-ilo/
 ---
 
 <br/>
