@@ -7,7 +7,7 @@ permalink: /now/
 
 <br/>
 
-Changelog
+life changelog v24.12
 
 
 *Last updated December 2024*
