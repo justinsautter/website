@@ -6,8 +6,7 @@ permalink: /blog/
 ---
 
 internet manifestos.
-
-<br/>
+***
 
 20 Feb, 2025 &ensp; [The Beauty of Simplicity](/blog/simplicity)
 

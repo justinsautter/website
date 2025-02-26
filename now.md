@@ -5,7 +5,9 @@ description: What I'm up to
 permalink: /now/
 ---
 
-# What am I doing at the moment?
+<br/>
+
+## What am I doing at the moment?
 *Last updated December 2024*
 
 <br/>
