@@ -32,9 +32,7 @@ theme: jekyll-bear-theme
 plugins:
   - jekyll-feed
 
-permalink: pretty
-
-# permalink: /blog/:slug
+permalink: /blog/:slug
 # timezone: America/Chicago
 # future: false
 
@@ -43,6 +41,9 @@ Blog: /blog
 links:
   Now: /now
   Resume: /resume.pdf
+
+special_links:
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

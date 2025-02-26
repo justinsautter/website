@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: page
 title: Blog
 description: Writings
-permalink: /blog
+permalink: /blog/
 ---
 
 <br/>
