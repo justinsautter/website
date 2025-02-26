@@ -34,6 +34,9 @@ Don't sacrifice your ability to learn because you need to be the very best (that
 This is probably a terrible blog post! And that's alright.
 
 Go make some mistakes.
+<br/>
+
+[Stop Overthinking Programming - bigboxSWE](https://www.youtube.com/watch?v=qyc2lgnOWJo)
 
 [The Worst Developer Mentality - Neetcode](https://www.youtube.com/watch?v=7XFhbWSy4zQ)
 

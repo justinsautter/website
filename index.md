@@ -10,6 +10,8 @@ my name is Justin and I'm interested in software development, offensive security
 
 this is my dumping ground for things.
 
+(still under construction) 👷🚧🔨
+
 <br/>
 
 ### Blog
@@ -18,7 +20,7 @@ Feb 20th, 2025 - [The Beauty of Simplicity](blog/simplicity)
 
 Feb 19th, 2025 - [Stop Overthinking Everything](/blog/stop-overthinking-everything)
 
-Sept 15th, 2024 - [The Anti Resume](/blog/the-anti-resume)
+[comment]: <> (Sept 15th, 2024 - [The Anti Resume](/blog/the-anti-resume))
 
 June 26th, 2024 - [How To: Break Into iLO](/blog/how-to-break-into-ilo)
 
