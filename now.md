@@ -9,7 +9,6 @@ permalink: /now/
 
 Changelog
 
-<br/>
 
 *Last updated December 2024*
 
