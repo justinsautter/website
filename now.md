@@ -5,7 +5,7 @@ description: What I'm up to
 permalink: /now/
 ---
 
-<br/>
+
 
 life changelog v24.12
 
