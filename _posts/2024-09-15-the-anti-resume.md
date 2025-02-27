@@ -23,6 +23,7 @@ enjoy.
 - Interviewed at Google. Passed all interviews. Hiring managers for multiple locations never ended up contacting me to fill the role. Guess I was passed over.
 
 - Tried to learn Golang once. Gave up after one week. Learning C this time around a few years later. We'll see if it sticks.
+
 *update*: It did not stick. Maybe I'll come back to this.
 
 - Never really applied myself in high school because I could get skate by without much effort. This attitude continued to permeate my life for many years to come. Slowly working on changing this every day.
