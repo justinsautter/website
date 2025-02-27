@@ -5,9 +5,9 @@ title:
 
 ## howdy pardner 👋🤠
 
----
+<br/>
 
-my name is Justin and I'm interested in software development, offensive security, networking, and computers in general.
+my name is Justin and I'm interested in distributed systems, offensive security, networking, and computers in general.
 
 this is my dumping ground for things.
 
