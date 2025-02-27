@@ -3,14 +3,15 @@ layout: default
 title:
 ---
 
-# howdy pardner \\(•◡•)/
+## howdy pardner 👋🤠
 
+---
 
 my name is Justin and I'm interested in software development, offensive security, networking, and computers in general.
 
 this is my dumping ground for things.
 
-(still under construction) 👷 🚧 🔨
+(still under construction) 🚧 🔨 👷
 
 <br/>
 
