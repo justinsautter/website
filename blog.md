@@ -5,7 +5,7 @@ description: Writings
 permalink: /blog/
 ---
 
-internet manifestos.
+internet manifestos
 
 ---
 
