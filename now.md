@@ -6,7 +6,6 @@ permalink: /now/
 ---
 
 
-
 life changelog v24.12
 
 

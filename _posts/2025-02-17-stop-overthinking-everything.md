@@ -10,7 +10,7 @@ permalink: /blog/stop-overthinking-everything/
 ## Stop overthinking everything
 ##### Feb 19th, 2025
 
-I see this all the time with new programers, but especially myself - because well, I am one. I think that the very nature of computer science and programming in general, which is very drilled down, tedious, and detail oriented - a microcosm of sorts, lends itself to getting lost in the barrage of details and data points pretty quickly.
+I see this all the time with new programers, but especially myself - because well, I am one. I think that the very nature of computer science and programming in general, which is very drilled down, tedious, and detail oriented - a microcosm of sorts - lends itself to getting lost in the barrage of details and data points pretty quickly.
 
 What's the best algorithm to implement here? What's the big O runtime of it? Does it allow backtracking or recursion? Does it alter the contents of memory in place? What if I want to change this later? Is it readable? How many microseconds can I save if I rewrite it in Rust?
 
