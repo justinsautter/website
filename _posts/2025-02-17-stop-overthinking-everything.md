@@ -7,6 +7,8 @@ permalink: /blog/stop-overthinking-everything/
 
 <br/>
 
+[<-](/blog.md)
+
 ## Stop overthinking everything
 ##### Feb 19th, 2025
 

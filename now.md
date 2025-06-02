@@ -13,8 +13,8 @@ life changelog v25.6
 
 <br/>
 
-- Currently making things safer as a Security Engineer @ [Nebraska Medicine](https://www.nebraskamed.com/).
+- Making things safer as a Security Engineer @ [Nebraska Medicine](https://www.nebraskamed.com/).
 
 - Studying Computer Science at [Bellevue University](https://bellevue.edu/).
 
-- Probably working on my car.
+- Probably working on my car or golfing. ⛳️🏌️

@@ -7,6 +7,8 @@ permalink: /blog/how-to-break-into-ilo/
 
 <br/>
 
+[<-](/blog.md)
+
 Integrated Lights-Out, or iLO, is a proprietary embedded server management technology by Hewlett-Packard Enterprise which provides out-of-band management facilities.
 
 <br/>
