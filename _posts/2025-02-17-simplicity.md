@@ -7,7 +7,7 @@ permalink: /blog/simplicity/
 
 <br/>
 
-[<-](/blog.md)
+[back](/blog)
 
 ## An idiot admires complexity, a genius admires simplicity
 ##### Feb 20th, 2025

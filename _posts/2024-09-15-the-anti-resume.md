@@ -7,7 +7,7 @@ permalink: /blog/the-anti-resume/
 
 <br/>
 
-[<-](/blog.md)
+[back](/blog)
 
 ## why i'm sharing this
 ##### Sep 15th, 2024
