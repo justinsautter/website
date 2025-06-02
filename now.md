@@ -6,17 +6,15 @@ permalink: /now/
 ---
 
 
-life changelog v24.12
+life changelog v25.6
 
 
-*Last updated December 2024*
+*Last updated June 2025*
 
 <br/>
 
-- Currently working as a System Administrator at [LovelySkin](https://lovelyskin.com/).
+- Currently making things safer as a Security Engineer @ [Nebraska Medicine](https://www.nebraskamed.com/).
 
 - Studying Computer Science at [Bellevue University](https://bellevue.edu/).
 
-- Learning to program in JavaScript/TypeScript, Python, and (hopefully) Go.
-
-- Learning more about Christian history, especially the [Orthodox](https://www.goarch.org/introduction) faith.
+- Probably working on my car.
