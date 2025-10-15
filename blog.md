@@ -9,6 +9,8 @@ internet manifestos
 
 ---
 
+14 Oct, 2025 &ensp; [Close the loop](/blog/close-the-loop)
+
 20 Feb, 2025 &ensp; [The Beauty of Simplicity](/blog/simplicity)
 
 19 Feb, 2025 &ensp; [Stop Overthinking Everything](/blog/stop-overthinking-everything)

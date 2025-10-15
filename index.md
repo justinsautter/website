@@ -17,11 +17,11 @@ this is my dumping ground for things.
 
 ### Recent posts
 
+Oct 14th, 2025 - [Close the loop](blog/close-the-loop)
+
 Feb 20th, 2025 - [The Beauty of Simplicity](blog/simplicity)
 
 Feb 19th, 2025 - [Stop Overthinking Everything](/blog/stop-overthinking-everything)
-
-Sep 15th, 2024 - [The Anti Resume](/blog/the-anti-resume)
 
 <br/>
 
