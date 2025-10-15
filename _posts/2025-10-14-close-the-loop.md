@@ -4,10 +4,11 @@ title: "Close the loop"
 date: 2025-10-14
 permalink: /blog/close-the-loop/
 ---
-
 <br/>
 
 [←](/blog)
+
+<br/>
 
 ## Close the loop
 ##### Oct 14th, 2025
@@ -16,7 +17,7 @@ As I grow older and am being forced to deal with more nonconsentual responsibili
 
 The brain dedicates exceedingly more amounts of energy towards remembering tasks you haven't finished, rather than ones you have.
 
-`L33t speak`: your brain dedicates a lot of memory in RAM for open tasks.
+**L33t speak**: your brain dedicates a lot of memory in RAM for open tasks.
 
 This sounds very obvious once you say it out loud, but took some time for me to personally see this relationship in action (a crashout). Between working full time, being in school full time, volunteering, tutoring, and fixing up a new (to me) car, it **has** worn on me.
 

@@ -17,7 +17,7 @@ this is my dumping ground for things.
 
 ### Recent posts
 
-Oct 14th, 2025 - [Close the loop](blog/close-the-loop)
+Oct 14th, 2025 - [Close The Loop](blog/close-the-loop)
 
 Feb 20th, 2025 - [The Beauty of Simplicity](blog/simplicity)
 
