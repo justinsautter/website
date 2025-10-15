@@ -6,9 +6,7 @@ permalink: /blog/close-the-loop/
 ---
 <br/>
 [←](/blog)
-
 <br/>
-
 ## Close the loop
 ##### Oct 14th, 2025
 
