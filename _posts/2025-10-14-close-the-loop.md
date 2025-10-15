@@ -5,7 +5,6 @@ date: 2025-10-14
 permalink: /blog/close-the-loop/
 ---
 <br/>
-
 [←](/blog)
 
 <br/>
