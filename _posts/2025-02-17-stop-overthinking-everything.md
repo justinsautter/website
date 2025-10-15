@@ -4,11 +4,9 @@ title: "Stop overthinking everything"
 date: 2025-02-17
 permalink: /blog/stop-overthinking-everything/
 ---
-
 <br/>
-
 [←](/blog)
-
+<br/>
 ## Stop overthinking everything
 ##### Feb 19th, 2025
 

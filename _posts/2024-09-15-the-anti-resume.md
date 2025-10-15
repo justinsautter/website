@@ -4,11 +4,9 @@ title: "The Anti Resume"
 date: 2024-09-15
 permalink: /blog/the-anti-resume/
 ---
-
 <br/>
-
 [←](/blog)
-
+<br/>
 ## why i'm sharing this
 ##### Sep 15th, 2024
 
